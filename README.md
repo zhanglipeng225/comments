@@ -1,1 +1,2 @@
-# comments
+# 这个是从网上down的一个小型php写的comments
+我将自己在本地修改调试成功后的文件上传，也算是git的第一个练习
